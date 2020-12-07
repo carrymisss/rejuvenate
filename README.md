@@ -2,7 +2,7 @@ This blogging / microblogging system was created by **[carrymisss](https://githu
 
 ### [Rejuvenate](https://leaflet-rejuvenate.000webhostapp.com/)
 
-### 🛠 Installation
+### 🛠 Installation (Windows)
 
 1. Clone or download repository
 1. Install the [**Open Server**](https://ospanel.io/download/)
