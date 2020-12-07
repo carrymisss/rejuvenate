@@ -2,4 +2,4 @@ This blogging / microblogging system was created by **[carrymisss](https://githu
 
 ### [Rejuvenate](https://leaflet-rejuvenate.000webhostapp.com/)
 
-> Some functions do not work / work incorrectly due to free hosting, everything should work on **localhost**
+> Some functions do not work / work incorrectly due to free hosting, everything should work on [**Open Server**](https://ospanel.io/)
